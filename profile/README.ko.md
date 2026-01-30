@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/KAIST-School%20of%20Computing-004191?style=for-the-badge&logo=kaist&logoColor=white"/>
 
-**[English](./README.md)** | **[공식 웹사이트](https://www.google.com/search?q=https://cs.kaist.ac.kr)**
+**[English](./README.md)** | **[공식 웹사이트](https://cs.kaist.ac.kr)**
 
 </div>
 
